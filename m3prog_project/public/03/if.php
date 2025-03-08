@@ -6,7 +6,8 @@ $opvoorraad = $aantalOpVoorraad > 0;
 if ($opvoorraad == false)
 {
     echo "niet op voorraad";
-} else 
+}
+else 
 {
     echo "Artikel is op voorraad";
 }
